@@ -1,0 +1,3 @@
+/Users/jianxiongshen/Downloads/c++/my-cmake-project/build/CMakeFiles/my_cmake_project.dir
+/Users/jianxiongshen/Downloads/c++/my-cmake-project/build/CMakeFiles/edit_cache.dir
+/Users/jianxiongshen/Downloads/c++/my-cmake-project/build/CMakeFiles/rebuild_cache.dir
