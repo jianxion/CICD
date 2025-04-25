@@ -155,6 +155,7 @@ int main() {
     newdog->say();
     dog->say();
 
+    std::cout << "small change" << std::endl;
 
 
 
